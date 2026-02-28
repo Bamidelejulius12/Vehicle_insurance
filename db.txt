@@ -1,0 +1,4 @@
+babatundejulius911_db_user
+iFzH1Qso14XHj8nI
+
+mongodb+srv://babatundejulius911_db_user:<db_password>@cluster2.vkfjln4.mongodb.net/?appName=Cluster2
