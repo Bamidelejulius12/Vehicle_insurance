@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-
+notebook/
 artifact
 __pycache__/
 *.py[codz]
